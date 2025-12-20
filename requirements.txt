@@ -1,0 +1,11 @@
+opencv-python
+numpy
+fastapi
+uvicorn
+pydantic
+ultralytics
+torch
+torchvision
+scipy
+filterpy
+lap
