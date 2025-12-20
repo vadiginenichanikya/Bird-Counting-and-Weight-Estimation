@@ -1,0 +1,177 @@
+{
+    "video": "birds.mp4",
+    "total_birds_detected": 34,
+    "detections": [
+        {
+            "frame": 30,
+            "bird_id": 1,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 60,
+            "bird_id": 2,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 90,
+            "bird_id": 3,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 120,
+            "bird_id": 4,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 150,
+            "bird_id": 5,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 180,
+            "bird_id": 6,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 210,
+            "bird_id": 7,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 240,
+            "bird_id": 8,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 270,
+            "bird_id": 9,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 300,
+            "bird_id": 10,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 330,
+            "bird_id": 11,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 360,
+            "bird_id": 12,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 390,
+            "bird_id": 13,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 420,
+            "bird_id": 14,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 450,
+            "bird_id": 15,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 480,
+            "bird_id": 16,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 510,
+            "bird_id": 17,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 540,
+            "bird_id": 18,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 570,
+            "bird_id": 19,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 600,
+            "bird_id": 20,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 630,
+            "bird_id": 21,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 660,
+            "bird_id": 22,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 690,
+            "bird_id": 23,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 720,
+            "bird_id": 24,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 750,
+            "bird_id": 25,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 780,
+            "bird_id": 26,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 810,
+            "bird_id": 27,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 840,
+            "bird_id": 28,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 870,
+            "bird_id": 29,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 900,
+            "bird_id": 30,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 930,
+            "bird_id": 31,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 960,
+            "bird_id": 32,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 990,
+            "bird_id": 33,
+            "estimated_weight_grams": 120
+        },
+        {
+            "frame": 1020,
+            "bird_id": 34,
+            "estimated_weight_grams": 120
+        }
+    ],
+    "processed_at": "2025-12-20T19:22:23.084348"
+}
