@@ -9,3 +9,5 @@ torchvision
 scipy
 filterpy
 lap
+deep-sort-realtime
+python-multipart
